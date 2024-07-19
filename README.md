@@ -60,7 +60,7 @@ This Flutter application was developed as part of a task for ProgressSoft. The a
 
 ### Videos
 - Screen record video:
-- (https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://drive.google.com/file/d/1m-I1AG6PM49HtHN48MkMlZY4Ms_JSdno/view?usp=sharing)
+- (https://drive.google.com/file/d/1m-I1AG6PM49HtHN48MkMlZY4Ms_JSdno/view?usp=sharing)
 
 ### Splash Screen
 ![alt text](https://github.com/mahmoud0alabsi/ProgressSoft-Flutter-Task/blob/main/screenshots/splash_screen.jpg)
