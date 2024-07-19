@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164831264030",
+    "project_id": "progress-soft-app-28f9a",
+    "storage_bucket": "progress-soft-app-28f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164831264030:android:5f3d1f1c85f17e12ae1d0f",
+        "android_client_info": {
+          "package_name": "com.example.progressSoftApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlDIADPrwkAAMybdFLSDQKGhMC0ncQMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

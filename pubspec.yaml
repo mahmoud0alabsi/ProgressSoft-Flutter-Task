@@ -1,0 +1,56 @@
+name: progress_soft_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.10+1
+  get: ^4.6.6
+  http: ^1.2.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  flutter_bloc: ^8.1.6
+  flutter_spinkit: ^5.2.1
+  shared_preferences: ^2.2.3
+  flutter_native_splash: ^2.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+
+flutter_native_splash:
+  color: "#E5E6FC"
+  image: "assets/images/splash_icon.png"
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: "scaleAspectFit"
+  branding: assets/images/splash_branding.png
+  branding_mode: bottom
+  branding_bottom_padding: 20.0
+  fullscreen: true
+
+  android_12:
+    color: "#E5E6FC"
+    image: "assets/images/splash_icon_12.png"
+    icon_background_color: "#ffffff"
+    branding: assets/images/splash_branding_12.png
+    branding_mode: bottom
+    branding_bottom_padding: 20.0
+
