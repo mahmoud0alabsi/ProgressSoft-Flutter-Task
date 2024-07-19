@@ -38,11 +38,11 @@ This Flutter application was developed as part of a task for ProgressSoft. The a
 ## Setup and Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/progresssoft_flutter_app.git
+   git clone https://github.com/mahmoud0alabsi/ProgressSoft-Flutter-Task.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd progresssoft_flutter_app
+   cd ProgressSoft-Flutter-Task
 
 3. **Install dependencies:**
    ```bash
